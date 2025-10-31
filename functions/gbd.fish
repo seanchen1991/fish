@@ -1,3 +1,3 @@
 function gbd
-	git branch -d $argv
+	git branch -D $argv
 end
