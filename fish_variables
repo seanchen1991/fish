@@ -2,8 +2,8 @@
 # VERSION: 3.0
 SETUVAR EDITOR:hx
 SETUVAR HELIX_RUNTIME:/Users/seanchen/\x2econfig/helix/runtime
-SETUVAR HOME:/Users/seanchen/
-SETUVAR __fish_initialized:3400
+SETUVAR HOME:/Users/seanchen
+SETUVAR __fish_initialized:3800
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:blue

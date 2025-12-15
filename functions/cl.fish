@@ -1,4 +1,4 @@
 function cl
     cd $argv
-    exa
+    eza
 end
